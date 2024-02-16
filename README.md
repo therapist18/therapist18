@@ -1,6 +1,7 @@
 👋 Hi, I’m @therapist18
-    I’m interested in Frontend development.
-    I'm good in PHP , MySql , JavaScript, CSS, BootStrap. 🌱  I’m currently learning React.
+
+I’m interested in Frontend development.
+I'm good in PHP , MySql , JavaScript, CSS, BootStrap. 🌱  I’m currently learning React.
 
  ⚡ Fun fact: Programming's fun, if you do it your way. Aaannndd PHP IS NOT A TRASH LANGUAGE!!!!! @Washington. 😄
    Enjoy my free codes 💞️ 👀
