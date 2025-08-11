@@ -40,7 +40,8 @@ From **business automation systems** to **AI-powered platforms**, my mission is 
 ## 📌 Featured Projects
 - **Registry Portal** – Centralized immigration & client document management with real-time data extraction  
 - **Uniform Store System** – Inventory, sales & supplier management with multi-role authentication & push notifications  
-- **Task Manager for Accounting Firms** – Department-based task tracking with role-specific dashboards  
+- **Task Manager for Accounting Firms** – Department-based task tracking with role-specific dashboards
+- **Great Point Realty Group** – Real estate e-commerce platform with user authentication, dynamic listings, advanced filtering, and UI/UX-led design.
 - **Developer Memoir App** – Personal documentation & debugging tracker linked to GitHub repos  
 - **Printing Industry Platform** – Marketplace with AI/AR integrations and multi-role access  
 
