@@ -51,12 +51,12 @@ I create **scalable, user-friendly, and visually engaging** applications that co
 ---
 
 ## 📊 GitHub Stats
-![Lynne’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Lynne’s GitHub stats](https://github-readme-stats.vercel.app/api?username=therapist18E&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therapist18&layout=compact&theme=tokyonight)
 
 ---
 
 ## 💬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff4088?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)  
-[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynne-syombua-694836282/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff4088?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-sandy-91.vercel.app/)  
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lynnesyombua@gmail.com)
